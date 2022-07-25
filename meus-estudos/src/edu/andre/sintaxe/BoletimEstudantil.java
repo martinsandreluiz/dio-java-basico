@@ -12,8 +12,10 @@ public class BoletimEstudantil {
             System.out.println("Aluno deve fazer PROVA MINERVA");
                         
         else 
-            System.out.println("Aluno APROVADO");
-            
+            System.out.println("Aluno APROVADO");            
          
     }
+
+    
 }
+
